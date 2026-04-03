@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mike Powers, M.S./G.I.T. / Researching the Icy Alpine Landscapes of the World"
+title                    : "Michael Powers, M.S./G.I.T. / Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Mike Powers"
 description              : &description "Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
