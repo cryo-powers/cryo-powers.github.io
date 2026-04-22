@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Michael Powers, M.S./G.I.T. / Ph.D. Candidate"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Michael Powers, M.S., G.I.T. / Ph.D. Candidate"
 title_separator          : "-"
 name                     : &name "Mike Powers"
 description              : &description "Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Mike"
   pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Field scientist that likes to search for ice in high places"
   location         : "Wilmington, DE"
   employer         : "University of Delaware"
   uri              : # URL
