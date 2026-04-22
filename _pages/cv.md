@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Geological Sciences, University of Delaware, 2026 (anticipated)
+    * Dissertation: Alpine Permafrost Distribution in the High Dry Andes of Chile & Argentina: Model Construction, Validation, & Implications for South American Natural Resources
+* M.S. in Geoscience, West Chester University, 2020
+    * Thesis: Short-term tidal groundwater study of the Slaughter Beach salt marsh in Slaughter Beach, Delaware
+* B.S. in Geoenvironmental Studies, Shippensburg University, 2017
 
 Work experience
 ======
@@ -32,7 +34,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Technical Skills
 ======
 * Skill 1
 * Skill 2
