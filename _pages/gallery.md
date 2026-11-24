@@ -56,8 +56,8 @@ gallery:
     image_path: gallery/filo.jpg
     alt: "Field Work"
     title: "Deploying sensors"
-  - url: gallery/prock_glacier.jpg
-    image_path: gallery/prock_glacier.jpg
+  - url: gallery/rock_glacier.jpg
+    image_path: gallery/rock_glacier.jpg
     alt: "Rock Glacier"
     title: "El Altar Rock Glacier, Dry Andes"
   - url: gallery/vega.jpg
