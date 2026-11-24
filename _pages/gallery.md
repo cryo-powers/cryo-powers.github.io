@@ -1,11 +1,11 @@
 markdown
 ---
-layout: single
+layout: archive
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
-gallery:
-  - url: gallery/badlands.jpg
+
+<img src= "/images/gallery/badlands.jpg"
     alt: "Badlands National Park"
     title: "One of the native residents of Badlands, the American Bison"
   - url: gallery/colorado_river.jpg
